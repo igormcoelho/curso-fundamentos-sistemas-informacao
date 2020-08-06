@@ -1,7 +1,7 @@
 ---
 author: Igor M. Coelho
 title: Fundamentos de Sistemas de Informação
-date: 5 de Agosto de 2020
+date: 05/08/2020
 transition: page
 fontsize: 10
 header-includes:
