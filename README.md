@@ -14,6 +14,9 @@ _**Última atualização:** Agosto/2020 (Período 2020.1)_
 
 
 
+Calendário 2020 (atualizado):
+   - [Atualizado](./files/uff-2020-1-2-calendarios.pdf)
+
 ...
 
 ### Como esses slides foram feitos?
@@ -25,6 +28,12 @@ Basicamente, é necessário instalar o pandoc e, opcionalmente, copiar alguns fi
 O mais legal é que a edição do slide tem uma visualização em tempo real, com plugins disponíveis para editores populares como Atom e VSCode.
 Uma demonstração foi colocada no site do ilectures: [https://github.com/igormcoelho/ilectures-pandoc#demonstrations](https://github.com/igormcoelho/ilectures-pandoc#demonstrations).
 
+
+### Deps
+
+Pandoc + LaTeX
+
+`python3 -m pip install pandoc-source-exec`
 
 ### Licença CC-BY 4.0
 
