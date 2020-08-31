@@ -1,7 +1,7 @@
 ---
 author: Igor M. Coelho
 title: Fundamentos de Sistemas de Informação
-date: 05/08/2020
+date: 30/08/2020
 transition: page
 fontsize: 10
 header-includes:
@@ -16,45 +16,6 @@ header-includes:
 # Introdução ao Curso
 
 ------
-
-## Example with LaTeX pseudocode
-
-
-```{.latex .exec .hide hide=true void=true cmd='codes/run_latex.sh' args='figs/pseudo2.svg' output_label=''}
-\documentclass{standalone}
-\usepackage[ruled,vlined,linesnumbered]{algorithm2e}
-%
-%\renewcommand{\thealgorithm}{}
-\renewcommand{\thealgocf}{}  % no number on algorithm2e
-%
-\begin{document}
-\pagestyle{empty}
-%
-\begin{algorithm}[H]
-\DontPrintSemicolon
-\SetAlgoLined
-\KwResult{Write here the result}
-\SetKwInOut{Input}{Input}\SetKwInOut{Output}{Output}
-\Input{Write here the input}
-\Output{Write here the output}
-\BlankLine
-\While{While condition}{
-    instructions\;
-    \eIf{condition}{
-        instructions1\;
-        instructions2\;
-    }{
-        instructions3\;
-    }
-}
-\caption{While loop with If/Else condition}
-\end{algorithm} 
-\end{document}
-```
-
-![Algoritmo de Teste](./figs/pseudo2.svg){width=100%}
-
---------
 
 ## Boas vindas
 
@@ -132,44 +93,131 @@ Sempre que tiverem uma dúvida ou curiosidade, perguntem! Toda pergunta é valio
 
 Atividades com aulas remotas em 2020.1
 
-- Período: xx/xx/2020 (segunda-feira) - xx/xx/2020 (segunda-feira)
+- Período: 14/09/2020 (segunda-feira) - 15/12/2020 (terça-feira)
 
-- Lançamento de notas: xx/xx/2020
+- Lançamento de notas: 14/12/2020 (último encontro)
 
-Teremos aulas síncronas no horários regulares e outras diversas atividades assíncronas complementares (vídeos, textos, trabalhos, ...) para suprir toda a carga horária.
+Teremos aulas síncronas em horários regulares e outras diversas atividades assíncronas complementares (vídeos, textos, trabalhos, ...) para suprir toda a carga horária.
+
+Serão oferecidas aprox. 30% de aulas síncronas, além de atividades de apresentação/discussão síncronas.
+
+Vide: *INSTRUÇÃO DE SERVIÇO PROGRAD Nº 15/2020, DE 25 DE AGOSTO DE 2020*
+
+
+---------
+
+## Horários Síncronos
+
+Horários do curso: segunda e quarta 18h-20h.
+
+Horários síncronos*: segundas 18h-20h (quartas sempre serão assíncronos)
+
+(*) Algumas exceções estão previstas e algumas aulas poderão ser alteradas (caso seja necessário), mas esta é a regra geral.
 
 ---------
 
 ## Ementa
 
-1. aaa
+1. CONCEITOS BÁSICOS E ORGANIZAÇÃO DE SISTEMAS DE INFORMAÇÃO;
+2. INFRAESTRUTURA DE TECNOLOGIA DE
+INFORMAÇÃO;
+3. COMÉRCIO ELETRÔNICO, GERÊNCIA DE CONHECIMENTO;
+4. SISTEMAS DE APOIO À TOMADA DE
+DECISÃO;
+5. IMPACTOS SOCIAIS DA TECNOLOGIA DA INFORMAÇÃO.
 
 --------
 
-## Avaliação Continuada
+## Avaliação
 
-Toda semana haverá atividades avaliativas assícronas (A), como listas de exercícios (E) e resumos de textos/vídeos (R). Além disso, haverá atividades com apresentação (P) (*com formação opcional de grupos por tema de interesse*).
+Haverá atividades avaliativas assícronas (A), como listas de exercícios e resumos de textos/vídeos (R). Haverá apenas uma VS com conteúdo escrito (VS). Além disso, haverá atividades com apresentação (P) (*com formação opcional de grupos por tema de interesse*).
 
 A nota N do curso será:
 
-A = 40%E + 60%R
+A = (30%R + 70%T)/2
 
-N = (E + P)/2
+N1 = (A + P)/2
 
-De acordo com as normas regulares da UFF, a nota mínima para aprovação é 6.
+De acordo com as normas regulares da UFF, a nota mínima N1 para aprovação é 6.
+
+Caso contrário, será necessário fazer a VS.
+
+N2 = (N1 + VS)/2
 
 --------
 
-## Cronograma
+## Cronograma (I)
 
-- Período: xx/xx/xxxx - xx/xx/xxxx
+- Período: 14/09/2020 - 15/12/2020
 
-Tipo = Sinc./Assinc.
+Tipo = Sinc./Asinc.
 
 | Data       | Atividade                       | Tipo   |
 | :---       |   :----                         | :---   |
-| xx/xx/2020 |  Introdução                     |  Sinc. |
-| xx/xx/2020 |  Lançamento Notas               |  Sinc. |
+| 14/09/2020 |  1-2 Introdução                 |  Sinc. |
+| 16/09/2020 |  Leitura & Debates |  Asinc. |
+| 21/09/2020 |  3-4-Infraestrutura-TI                   |  Sinc. |
+| 23/09/2020 |  Leitura & Debates |  Asinc. |
+| 28/09/2020 |  5-7-Nuvem-Decisão              |  Sinc. |
+| 30/09/2020 |  Leitura & Debates |  Asinc. |
+| 05/10/2020 |  8-10-Gestão-Estratégia         |  Sinc. |
+| 07/10/2020 |  Leitura & Debates |  Asinc. |
+| 12/10/2020 |  11-16-Introdução                     |  Sinc. |
+| 14/10/2020 |  Leitura & Debates |  Asinc. |
+| 19/10/2020 |  19-21-Software Livre & Projetos |  Sinc. |
+
+------
+
+## Cronograma (II)
+
+| Data       | Atividade                       | Tipo   |
+| :---       |   :----                         | :---   |
+| 21/10/2020 |  Entrega (T)                 |  Asinc. |
+| 26/10/2020 |  Revisão Conteúdo               |  Sinc. |
+| 28/10/2020 |  Leitura & Debates              |  Asinc. |
+| 02/11/2020 |  Debates *                      |  *Asinc. |
+| 04/11/2020 |  Debates *                      |  Asinc. |
+| 09/11/2020 |  Apresentação (P)               |  Sinc. |
+| 11/11/2020 |  Debates (P)                    |  Asinc. |
+| 16/11/2020 |  Apresentação (P)               |  Sinc. |
+| 18/11/2020 |  Debates (P)                    |  Asinc. |
+| 23/11/2020 |  Apresentação (P)               |  Sinc. |
+| 24/11/2020 |  Debates (P)                    |  Asinc. |
+| 30/11/2020 |  Apresentação (P)               |  Sinc. |
+| 02/12/2020 |  Debates (P)                    |  Asinc. |
+
+-------
+
+## Cronograma (III)
+
+| Data       | Atividade                       | Tipo   |
+| :---       |   :----                         | :---   |
+| 07/12/2020 |  Segunda Chamada                |  Sinc. |
+| 09/12/2020 |  -                  |  Asinc. |
+| 14/12/2020 |  VS                            |  *Asinc. |
+| 15/12/2020 |  Lançamento Notas              |  *Asinc. |
+
+-------
+
+## Trabalho (T)
+
+O trabalho consiste em analisar uma empresa (vide aulas 01-03) e deverá ser feito em formato artigo com no mínimo 3 membros (casos excepcionais serão analisados apenas caso não seja possível formar grupos).
+
+A formação de grupos será pela plataforma, durante debates cada aluno irá indicar uma empresa de interesse (em um primeiro momento). Assim, serão agregados naturalmente grupos (por ordem cronológica de criação de grupos completos) com no máximo duas repetições por tema.
+
+O formato será da SBC (word ou LaTeX PDF).
+
+-------
+
+## Apresentação (P)
+
+A apresentação seguirá a mesma lógica de (T), com grupos formados pela plataforma, por temas de interesse.
+
+Os temas serão debatidos ao longo das aulas, e definidos no máximo até a data (T). Haverá quatro dias possíveis para apresentação, mais um debate assíncrono das apresentações do dia.
+
+**É necessário agendar previamente a apresentação! Façam o quanto antes!**
+
+A lista de tópicos será disponibilizada durante as primeiras aulas (tópicos inovadores de tecnologia da informação e novos modelos de negócio).
 
 
 -------
@@ -187,6 +235,7 @@ Tipo = Sinc./Assinc.
 ::::: {.column width=60%}
 
 Buscaremos suprir o conteúdo especialmente através de materiais com licença livre (slides, apostilas, vídeos, textos, ...). Como livro texto, recomendamos o livro: *"Laudon & Laudon. Sistemas de Informação Gerenciais"*.
+Veja Classroom para mais materiais.
 
 :::::
 
@@ -204,7 +253,7 @@ Em especial, agradeço ao prof. Marcelo Fornazin, cujos materiais e dicas foram 
 
 Sem essa valiosa contribuição, esse curso não seria possível!
 
-Estendo os agradecimentos aos demais colegas que colaboraram com a elaboração do material do curso de [Pesquisa Operacional](https://github.com/igormcoelho/curso-pesquisa-operacional-i), que abriu caminho para prova prática dessa tecnologia de slides.
+Estendo os agradecimentos aos demais colegas que colaboraram com a elaboração do material do curso de [Pesquisa Operacional](https://github.com/igormcoelho/curso-pesquisa-operacional-i), que abriu caminho para verificação prática dessa tecnologia de slides.
 
 -----
 
