@@ -66,7 +66,7 @@ Esse curso está disponível no meu site pessoal no github: https://igormcoelho.
 
 ## Sobre vocês
 
-Gostaria que se apresentassem também (*nas aulas síncronas*) para nos conhecermos melhor! 
+Gostaria que se apresentassem também (*nas aulas síncronas*) para nos conhecermos melhor!
 
 Ninguém aprende 100% do que o professor ensina, e nem o professor consegue ensinar 100% de um conteúdo, então cabe aos alunos: *ler*, *estudar* e *questionar* (muito!). **Juntos** podemos trabalhar para transmitir esse conhecimento valioso para cada um de vocês.
 
@@ -78,7 +78,7 @@ Sempre que tiverem uma dúvida ou curiosidade, perguntem! Toda pergunta é valio
 
 *Para esse curso funcionar: tenham dedicação!*
 
-É fundamental: 
+É fundamental:
 
 - Não atrasar entrega de trabalho, mas caso precisem de uma extensão, solicitem antes do prazo! (*atrasos podem reduzir ou até zerar notas*)
 - Buscar ao máximo não perder nenhuma aula (síncrona), e caso percam, busquem o quanto antes suprir esse conteúdo
@@ -108,9 +108,9 @@ Vide: *INSTRUÇÃO DE SERVIÇO PROGRAD Nº 15/2020, DE 25 DE AGOSTO DE 2020*
 
 ## Horários Síncronos
 
-Horários do curso: segunda e quarta 18h-20h.
+Horários do curso: segunda e quarta 20h-22h.
 
-Horários síncronos*: segundas 18h-20h (quartas sempre serão assíncronos)
+Horários síncronos*: segundas 20h-22h (quartas sempre serão assíncronos)
 
 (*) Algumas exceções estão previstas e algumas aulas poderão ser alteradas (caso seja necessário), mas esta é a regra geral.
 
@@ -240,7 +240,7 @@ Veja Classroom para mais materiais.
 :::::
 
 
-::::::::::::: 
+:::::::::::::
 
 
 # Agradecimentos
